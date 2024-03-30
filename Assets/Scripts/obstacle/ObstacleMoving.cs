@@ -6,15 +6,9 @@ public class ObstacleMoving : MonoBehaviour
 {
     public float speed;
     public bool trueIsleft = true;
-    // Start is called before the first frame update
-
-    
-
     // Update is called once per frame
     void Update()
     {
-        
-        
         if (trueIsleft)
             this.transform.position =
                 new Vector3(transform.position.x - (speed * Time.deltaTime), transform.position.y, transform.position.z);
@@ -22,9 +16,6 @@ public class ObstacleMoving : MonoBehaviour
             this.transform.position =
                 new Vector3(transform.position.x + (speed * Time.deltaTime), transform.position.y, transform.position.z);
     }
-
-    
-
     private void OnBecameInvisible()
     {
         Destroy(this.gameObject);

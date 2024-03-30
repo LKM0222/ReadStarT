@@ -163,8 +163,6 @@ public class PlayerMoving : MonoBehaviour
                 moving = false;
             }
             time = time + Time.deltaTime;
-            //print(time);
-
 
             if (time > maxTime)
             {
@@ -180,10 +178,8 @@ public class PlayerMoving : MonoBehaviour
                 pause = true;
             }
         }
-        
-
-
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Obstacle"))
