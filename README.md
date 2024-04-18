@@ -2,16 +2,12 @@
 ![image](https://github.com/LKM0222/ReadStarT/assets/57254350/692312ca-b337-4a4f-8d0f-6773c61565c4)
 
 ## 목차
-0. [💾다운로드](#다운로드)
-1. [📜프로젝트 소개](#프로젝트-소개)
-2. [📆개발기간](#개발기간)
-3. [🙋‍♂️개발자 소개](#%EF%B8%8F개발자-소개)
-4. [❔게임 설명](#게임-설명)
-5. [🔽게임 내부 컨텐츠](#게임-내부-컨텐츠)
-6. [마지막으로](#마지막으로)
-
-## 💾다운로드
-
+0. [📜프로젝트 소개](#프로젝트-소개)
+1. [📆개발기간](#개발기간)
+2. [🙋‍♂️개발자 소개](#%EF%B8%8F개발자-소개)
+3. [❔게임 설명](#게임-설명)
+4. [🔽게임 내부 컨텐츠](#게임-내부-컨텐츠)
+5. [마지막으로](#마지막으로)
 
 ## 📜프로젝트 소개
 2021 경북 게임잼에서 6명 팀(개발 2, 기획 2, 디자인 2)인, 마름달 팀에서 개발한 첫번째 프로젝트입니다.
@@ -38,14 +34,28 @@
 
 ## 🔽게임 내부 컨텐츠
 플레이어는 게임 시작 시 **개발자, 기획자, 디자이너, 아이**네 종류의 캐릭터를 고를 수 있습니다.
-
-(사진)
+<p align="center">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/f925e95f-d5f4-43b5-ac1f-a97b1e3fc9f8" align="center" width="10%"> 
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/c03e90d0-e386-4d33-b4a0-f10c6d471726" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/11aae90c-ae5f-4103-9256-bf34b6c65994" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/33503e24-9549-4342-afe7-96a806243f16" align="center" width="10%">  
+</p>
 
 각 캐릭터마다 등장하는 맵이 다르고, 오브젝트도 다릅니다. 
-(사진)
+<p align="center">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/9818bc4d-dabc-4565-ba54-f1eadf06f0b8" align="center" width="10%"> 
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/3256dd78-96ba-4fe9-988c-b7f1b9b493c5" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/9bc621f5-7719-40dc-8221-d0f42919d806" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/be90b242-0fba-4e64-b8a3-812cf7f9f90f" align="center" width="10%">  
+</p>
 
 점수를 내면 해금할 수 있는 업적들이 있습니다.
-(사진)
+<p align="center">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/85be4328-67d7-474d-b91b-6ebe02d27dd1" align="center" width="10%"> 
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/9c2361ce-0711-453e-aaf9-5a200f72ead6" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/f352ca77-99b4-4910-8510-63b747a195cc" align="center" width="10%">  
+ <img src="https://github.com/LKM0222/ReadStarT/assets/57254350/3a80e116-7f9d-43e0-9011-bec574485607" align="center" width="10%">  
+</p>
 
 ## 마지막으로
 첫 게임잼이였던 만큼 좋은 추억이 가득한 프로젝트였습니다. 
